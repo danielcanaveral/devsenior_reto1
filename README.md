@@ -68,7 +68,7 @@ Introducción al objetivo y desafíos abordados.
 Ejecución del programa con ejemplos de cada funcionalidad.
 Implementaciones destacadas, como validaciones y manejo de errores.
 Contribuidores
-[Nombre del Integrante 1]
-[Nombre del Integrante 2]
+Daniel Fernando Cañaveral Marin
+Mauricio Laguna Santa
 Licencia
 Este proyecto es de uso académico y está protegido bajo las normas del curso Python de Cero a Senior: La Ruta Maestra del Código.
